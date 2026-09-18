@@ -1,0 +1,6 @@
+{
+  "name": "Parallel Space Ultra 120FPS",
+  "description": "Rooted virtual app sandbox and 90-120 FPS performance booster engine configured for Call of Duty: Mobile Garena (com.garena.game.codm) with regional server low-ping routing and stealth anti-cheat protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
